@@ -1,0 +1,29 @@
+JSX = JavaScript + XML
+
+HTML
+    <div id="message">
+        <h2>From: John Doe</h2>
+        <h2>To: Jane Doe</h2>
+        <p>Hello, how are you?</p>
+    </div>
+
+XML
+    <message>
+        <from>John Doe</from>
+        <to>Jane Doe</to>
+        <message>Hello, how are you?</message>
+    </message>
+
+
+Start with a capital letter if its a Component
+
+What is a component? - something that shows a piece of UI 
+
+prop \attribute -> property
+props \ attributes -> properties
+
+<a href='https://google.com' class='nav-link'>Google</a>
+
+property/key: value
+href: 'https://google.com'
+class: 'nav-link'
